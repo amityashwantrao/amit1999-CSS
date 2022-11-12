@@ -1,0 +1,27 @@
+.amit{
+    height: 1000px;
+    width: 1000px;
+    background-image: url(images/wp2713937.webp);
+    background-size: 1000px 1000px;
+    position:absolute;
+    top: 200px;
+    left: 300px;
+    background-repeat: no-repeat;
+    background-color: blueviolet;
+    
+}
+h1{
+    color: white;
+    position: absolute;
+     left: 50px;
+    top: 50px;
+    font-size: 100px;
+    text-shadow: 10px 10px 10px blue;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
