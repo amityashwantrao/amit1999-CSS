@@ -8,15 +8,17 @@
     left: 300px;
     background-repeat: no-repeat;
     background-color: blueviolet;
-    
+    overflow: scroll;
+    background-attachment: fixed;
+    border-style: dotted;
+
 }
+    
 h1{
     color: white;
-    position: absolute;
-     left: 50px;
-    top: 50px;
-    font-size: 100px;
-    text-shadow: 10px 10px 10px blue;
+    text-align: center;
+
+    
 }
 
 h2{
