@@ -1,0 +1,16 @@
+h1{
+    float:left;
+    background-color: aqua;
+
+}
+
+h2{
+    float: right;
+    background-color: red;
+}
+
+h3{
+    float:none;
+    background-color: antiquewhite;
+    text-align: center;
+}

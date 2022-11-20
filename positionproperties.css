@@ -1,0 +1,65 @@
+h1{
+    background-color: red;
+    display: inline-block;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+     }
+
+h2{
+   background-color: blue;
+   display: inline-block;
+   position: absolute;
+   top: 238px;
+   left:300px;
+   }
+
+   h3{
+    background-color:teal;
+   display: inline-block;
+   position: absolute;
+   top: 266px;
+   left:375px;
+ }
+
+   h4{
+    background-color:fuchsia;
+    display: inline-block;
+    position: absolute;
+    top: 286px;
+    left:425px;
+   }
+
+   h5{
+    background-color: greenyellow;
+    display: inline-block;
+    position: absolute;
+    top: 303px;
+    left: 470px;
+   }
+
+
+   p{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 30px;
+    left: 150px;
+    z-index: 1;
+
+   }
+  
+   #amit{
+    background-color: orange;
+    color: whitesmoke;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    left: 200px;
+    z-index: ;
+}

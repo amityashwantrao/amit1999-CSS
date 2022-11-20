@@ -1,0 +1,24 @@
+h1{
+    background-color:blue;
+    display: inline;
+    color: aliceblue;   
+}
+
+.amit li{
+    list-style-image: url(images/R.jfif);
+}
+    
+    
+    
+
+h2{
+   background-color:maroon;
+   display: inline;
+   color: white;
+}
+.amol li{
+    list-style-image: url(images/west\ indies.png );
+    list-style-type:none;
+    
+}
+
