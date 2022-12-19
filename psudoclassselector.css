@@ -1,0 +1,27 @@
+li{
+    float: left;
+    font-style: italic;
+    
+    list-style: none;
+    padding: 10px;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    background-color: red;
+}
+
+a:visited {
+    background-color:gold;
+
+}
+
+a:hover{
+    color: chartreuse;
+}
+
+a:active{
+    background-color: chocolate;
+}

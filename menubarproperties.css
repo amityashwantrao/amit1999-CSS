@@ -16,12 +16,13 @@ menu{
     }
 a{
     text-decoration: none;
-    
+    padding: 5px;
 }
 
 li{
     display: flex;
     justify-content: space-evenly;
+    
     
     
 }

@@ -1,0 +1,24 @@
+p::before{
+    content: "Amit yashwantrao" ;
+    color: gold;
+    background-color:black;
+    font-size: 20px;
+}
+
+p:after{
+    content: "amit  yashwantrao";
+    color: blue;
+    background-color: greenyellow;
+    font-style: italic;
+}
+
+p::first-letter{
+    font-size: 100px;
+    color: orangered;
+
+}
+
+p::first-line{
+  text-decoration: line-through;
+  font-style: italic;
+}

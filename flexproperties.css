@@ -1,0 +1,61 @@
+main{
+    
+    
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+
+header{
+    background-color: aqua;
+    display: flex; 
+
+}
+.logo{
+    background-color: yellow;
+    width: 150px;
+    text-align: right;
+    
+}
+
+.heading{
+    
+    font-style: italic;
+    
+
+}
+
+
+.menubar{
+    background-color: green;
+    text-align: center;
+}
+.main-section{
+    display: flex;
+    
+}
+
+.left-section{
+    background-color: red;
+    text-align: center;
+    flex-basis: 5000px;
+    order: 2;
+    flex-shrink: 5;
+}
+
+.middel-section{
+    background-color: chocolate;
+    order: 1;
+}
+
+.right-section{
+    background-color: grey;
+    text-align: right;
+}
+
+.footer{
+    background-color: teal;
+    text-align: center;
+}
