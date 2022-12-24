@@ -1,0 +1,53 @@
+/* .img{
+    transform: translatex(200px);
+    
+    transition: 3s;
+}*/
+
+/*.img{
+    transform: rotate(360deg);
+    
+}*/
+
+/*.img{
+    transform:scale(2);
+}
+
+.img{
+    transform: skew(30deg);
+}*/
+
+
+
+h1{
+    animation-name :amit;
+    animation-duration: 4s;
+    /*animation-iteration-count: 3;*/
+    /*animation-direction:alternate ;*/
+    /*animation-delay: 5s;*/
+    /*animation-fill-mode: forwards;*/
+    animation-play-state:running;
+}
+
+  h1:hover{
+    animation-play-state:paused;
+}
+
+@keyframes amit{
+    0%{
+        color: gold;
+        transform: translate(1000px);
+        font-size: 50px;
+    }
+    50%{
+        color: blue;
+        transform: translate();
+        font-size: 30px;
+    }
+    100%{
+        color: greenyellow;
+        transform: translate();
+    }
+}
+
+

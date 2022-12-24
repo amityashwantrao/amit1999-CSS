@@ -32,6 +32,15 @@ li{
 
 li ul{
     display: none;
+    position: absolute;
+}
+
+ ul li:hover ul{
+    display: flex;
+
+}
+ul li ul {
+    flex-direction: column;
 }
 
 .aricle{
